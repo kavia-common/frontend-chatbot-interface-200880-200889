@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/frontend-chatbot-interface-200880-200889/chatbot_frontend"
+}
